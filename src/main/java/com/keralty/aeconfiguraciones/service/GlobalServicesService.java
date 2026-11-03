@@ -3317,8 +3317,6 @@ public class GlobalServicesService extends AbstractService {
         Date tGMODFINIEPSptpDesde = request.getTGMODFINIEPSptpDesde();
         Date tGMODFINIEPSptpHasta = request.getTGMODFINIEPSptpHasta();
         Date tGMODFINIEPSptpFechaInicioAplicar = request.getTGMODFINIEPSptpFechaInicioAplicar();
-        Long tGMODFINIEPSptTratime = request.getTGMODFINIEPSptTratime();
-        Long tGMODFINIEPSptTipoContrato = request.getTGMODFINIEPSptTipoContrato();
 
         request.checkArguments();
 
